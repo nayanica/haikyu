@@ -4,9 +4,8 @@
          <link rel= "stylesheet" href="boba-drops.css" /> 
     </head>
     <body>
-        <h1>Slay Queen</h1>
-        <p>All hail the Queen</p> 
-        <img src="https://i.pinimg.com/1200x/49/57/67/495767286aaa3e8a22dc6c34c27db746.jpg"/>
+        <h1>Haikyu<h1>
+        <p>karasuno is the best/p> 
+        <img src="https://a.storyblok.com/f/178900/960x540/05fe378b30/haikyu-karasuno-high.jpg/m/filters:quality(95)format(webp)"
     </body>
 </html>
-
